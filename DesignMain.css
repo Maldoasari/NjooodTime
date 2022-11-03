@@ -1,0 +1,48 @@
+.Main1change, #H1{
+    text-align: center;
+    font-size: 1cm;
+    font-family:"Lucida Console", "Courier New", "monspace";
+    color: bisque;
+    
+}
+
+#body{
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+#List {
+    list-style-type:none;
+    
+}
+
+#Input1,#Input2, #Input3, #Input4{
+    font-family:Papyrus;
+    font-size: 20px;
+    
+       
+      
+        
+   
+   
+}
+#Text1 {
+    font-family:Papyrus;
+    font-size: 30px;
+}
+#Input1:hover ,#Input2:hover, #Input3:hover, #Input4:hover{
+    border-color: bisque;
+    
+}
+
+#Button {
+    border-color: bisque;
+    font-family:"Lucida Console", "Courier New", "monspace";
+}
+#Button:hover{
+    color:black;
+    background-color: bisque;
+    font-family:"Lucida Console", "Courier New", "monspace";
+    
+}
